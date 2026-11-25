@@ -40,6 +40,23 @@ Evaluates product performance and supports product-level business analysis.
 
 ![Product Details](Product_Details.png.png)
 
+## Key Business & Financial Insights
+
+- Analyzed total revenue of 24.9 million and total profit of 10.5 million.
+- Calculated an approximate profit margin of 42.2%, providing insights into overall business profitability.
+- Evaluated approximately 25,200 orders across multiple product categories and geographical regions.
+- Identified an overall product return rate of 2.17%.
+- Analyzed monthly revenue of 1.83 million to monitor business performance.
+- Identified Bib-Shorts as the most ordered product type and Shorts as the most returned product type.
+- Observed an overall upward revenue trend across the reporting period.
+
+## Business Recommendations
+
+- Investigate products with higher return rates to identify potential quality or customer satisfaction issues.
+- Prioritize high-performing products and profitable customer segments.
+- Monitor revenue growth, profit margins and monthly performance to support financial planning.
+- Evaluate regional performance to identify potential market expansion opportunities.
+
 ## Tools & Skills
 
 - Microsoft Power BI
